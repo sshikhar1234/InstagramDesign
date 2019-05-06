@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Instagram</string>
+    <string name="unsplash_api_key">001d98d738519452f2ca2de919ba91894b4d2b9ca8ceb652894a9d8a188281e2</string>
+    <string name="base_url"></string>
+</resources>
