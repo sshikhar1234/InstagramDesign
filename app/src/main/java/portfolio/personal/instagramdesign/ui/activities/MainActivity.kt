@@ -11,6 +11,7 @@ import com.example.instagram.ui.fragments.BaseAppCompatActivity
 import com.example.instagram.ui.fragments.ExploreFragment
 import com.example.instagram.ui.fragments.FeedFragment
 import com.example.instagram.ui.fragments.ProfileFragment
+import kotlinx.android.synthetic.main.toolbar_main.*
 import portfolio.personal.instagramdesign.R
 
 
@@ -29,6 +30,8 @@ class MainActivity : BaseAppCompatActivity() {
         }
 
         navHome.setOnClickListener {
+//            setSupportActionBar()
+
             navProfile.drawable.colorFilter = PorterDuffColorFilter(resources.getColor(R.color.navBarGrey,null), PorterDuff.Mode.MULTIPLY)
             navExplore.drawable.colorFilter = PorterDuffColorFilter(resources.getColor(R.color.navBarGrey,null), PorterDuff.Mode.MULTIPLY)
             navUpload.drawable.colorFilter = PorterDuffColorFilter(resources.getColor(R.color.navBarGrey,null), PorterDuff.Mode.MULTIPLY)
