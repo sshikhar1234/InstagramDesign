@@ -11,8 +11,4 @@ Original Applciation's complex screens such as Main Feed, Discover and Profile s
 ## Screenshots
 
 
-<img src ="https://github.com/sshikhar1234/InstagramDesign/blob/master/Screenshot_1569623565.png" width = "250">
-
-<img src ="https://github.com/sshikhar1234/InstagramDesign/blob/master/Screenshot_1569623587.png" width = "250">
-
-<img src ="https://github.com/sshikhar1234/InstagramDesign/blob/master/Screenshot_1569623598.png" width = "250"> 
+<img src ="https://github.com/sshikhar1234/InstagramDesign/blob/master/Screenshot_1569623565.png" width = "250">  <img src ="https://github.com/sshikhar1234/InstagramDesign/blob/master/Screenshot_1569623587.png" width = "250">  <img src ="https://github.com/sshikhar1234/InstagramDesign/blob/master/Screenshot_1569623598.png" width = "250"> 
